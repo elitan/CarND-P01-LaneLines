@@ -1,6 +1,6 @@
 # quick start
 source activate carnd-term1
-jupiter notebook P1.ipynb
+jupyter notebook P1.ipynb
 
 
 #**Finding Lane Lines on the Road** 
